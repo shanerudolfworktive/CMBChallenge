@@ -11,8 +11,8 @@ This project uses below technical specifications:
 5, Espresso - UI automation test
 6, Junit - unit test
 
-#Demo Gif
+# Demo Gif
 ![demo gif](https://github.com/shanerudolfworktive/CMBChallenge/blob/master/app/src/main/assets/CMBDemo.gif)
 
-#Demo Automation Test
+# Demo Automation Test
 ![demo auto gif](https://github.com/shanerudolfworktive/CMBChallenge/blob/master/app/src/main/assets/CMBTestDemo.gif)
