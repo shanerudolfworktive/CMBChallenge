@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CBMCodeChalllenge</string>
+
+    <string name="Accept">Accept</string>
+    <string name="Reject">Reject</string>
+
+    <string name="landingFragmentDescription">Have you ever worried that your relationship is only superficial? Now, here is your Rescue! Find your true love by discovering their personality first before you see them. Swipe right to accept the friendship and see your potential true love</string>
+    <string name="landingFragmentStartButton">Start Finding Your True Love!</string>
+</resources>
