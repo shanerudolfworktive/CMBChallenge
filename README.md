@@ -4,9 +4,15 @@ The idea is simple. Nowadays, people tend to jump in a relationship base on thei
 
 This project uses below technical specifications:
 
-Kotlin - the latest language to program in Android
-RxJava - thread management and easy notification
-Service - attempt to reloading the photo when the app is connect to wifi and is in battery charging
-MVVM/Data-Binding - mordening pattern of MVC
-Espresso - UI automation test
-Junit - unit test
+1, Kotlin - the latest language to program in Android
+2, RxJava - thread management and easy notification
+3, Service - attempt to reloading the photo when the app is connect to wifi and is in battery charging
+4, MVVM/Data-Binding - mordening pattern of MVC
+5, Espresso - UI automation test
+6, Junit - unit test
+
+#Demo Gif
+![demo gif](https://github.com/shanerudolfworktive/CMBChallenge/blob/master/app/src/main/assets/CMBDemo.gif)
+
+#Demo Automation Test
+![demo auto gif](https://github.com/shanerudolfworktive/CMBChallenge/blob/master/app/src/main/assets/CMBTestDemo.gif)
